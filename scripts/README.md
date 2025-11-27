@@ -5,5 +5,3 @@
 3. `03_measurement_model.R` - CFA analysis
 4. `04_structural_model.R` - SEM analysis
 5. `05_create_tables.R` - Generate publication tables
-```
-```
